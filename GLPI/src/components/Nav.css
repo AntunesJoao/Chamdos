@@ -1,0 +1,27 @@
+.nav{
+    background-color: rgb(153, 153, 165);
+    height: 250px;
+    
+}
+
+.nav .logo{
+    display: flex;
+    justify-content: center;
+    height:200px;
+}
+
+
+.visu{
+    width: 5rem;
+    height: 3rem;
+    border-radius: 4px;
+    margin-top: -10rem;
+    margin-right: 3rem;    
+}
+
+
+
+.btn{
+    display: flex;
+    justify-content:flex-end;
+}
